@@ -1,0 +1,26 @@
+---
+title: "readme"
+output: html_document
+date: "2023-06-19"
+---
+
+
+```{r, echo=FALSE}
+library(ghreadme)
+
+who_am_i(name = "Joe",
+likes = "#rstats and data visualization.",
+learn = "shiny app development, JavaScript, and Bayesian statistics.",
+work = "R package development tools.",
+collab = "#rstats packages for data science.")
+
+```
+
+
+```{r, echo=FALSE}
+gh_badges(username = "hareboll", 
+  badge = c("details", "stats", "repo_lang"), 
+  theme = "dark")
+
+```
+
