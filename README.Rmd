@@ -10,8 +10,8 @@ library(ghreadme)
 
 who_am_i(name = "Joe",
 likes = "#rstats and data visualization.",
-learn = "shiny app development, JavaScript, and Bayesian statistics.",
-work = "R package development tools.",
+learn = "Python, sql, snowflake, and clinical trial management",
+work = "Clinical Trial Management Systems",
 collab = "#rstats packages for data science.")
 
 ```
