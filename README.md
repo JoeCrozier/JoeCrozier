@@ -2,10 +2,9 @@
 
     ## 👀 I like #rstats and data visualization.
 
-    ## 🌱 I'm learning about shiny app development, JavaScript, and Bayesian
-    ## statistics.
+    ## 🌱 I'm learning about Python, sql, snowflake, and clinical trial management
 
-    ## 📦 I'm currently working on R package development tools.
+    ## 📦 I'm currently working on Clinical Trial Management Systems
 
     ## 💞 I'd love to collaborate on #rstats packages for data science.
 
