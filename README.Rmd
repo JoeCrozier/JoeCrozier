@@ -25,7 +25,7 @@ collab = "#rstats packages for data science.")
 ```{r, echo=FALSE, results='asis'}
 gh_badges(username = "hareboll", 
   badge = c("details", "stats", "repo_lang"), 
-  theme = "dark")
+  theme = "default")
 
 
 
