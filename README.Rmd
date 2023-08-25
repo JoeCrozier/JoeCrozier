@@ -23,7 +23,7 @@ collab = "#rstats packages for data science.")
 ### Github
 
 ```{r, echo=FALSE, results='asis'}
-gh_badges(username = "hareboll", 
+gh_badges(username = "JoeCrozier", 
   badge = c("details", "stats", "repo_lang"), 
   theme = "dark")
 
