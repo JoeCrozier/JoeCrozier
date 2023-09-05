@@ -12,7 +12,7 @@ who_am_i(name = "Joe",
 likes = "#rstats, 3D printing, and data visualization",
 learn = "Python, sql, snowflake, and clinical trial management",
 work = "Clinical Trial Management Systems",
-collab = "#rstats packages for data science.")
+collab = "#rstats packages for data science and clinical trials.")
 
 ```
 

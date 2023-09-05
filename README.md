@@ -6,7 +6,8 @@
 
     ## 📦 I'm currently working on Clinical Trial Management Systems
 
-    ## 💞 I'd love to collaborate on #rstats packages for data science.
+    ## 💞 I'd love to collaborate on #rstats packages for data science and clinical
+    ## trials.
 
     ## 📫 Want to connect? Use the badges below...
 
