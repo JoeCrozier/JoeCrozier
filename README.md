@@ -11,7 +11,7 @@
 
     ## 📫 Want to connect? Use the badges below...
 
-### I’m more active on StackOverflow than github
+### My StackOverflow
 
 <a href="https://stackexchange.com/users/5414136"><img src="https://stackexchange.com/users/flair/5414136.png" width="208" height="58" alt="profile for Joe Crozier on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joe Crozier on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
